@@ -1,0 +1,4 @@
+python
+print("Hello Python interpreter!")
+
+python hello_world.py
