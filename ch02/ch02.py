@@ -7,9 +7,9 @@ favorite_language.rstrip()
 favorite_language.lstrip()
 favorite_language.strip()
 
-Numbers
+# Numbers
 
-Integers
+# Integers
 
 2 + 3
 3 - 2
@@ -21,7 +21,7 @@ Integers
 3 ** 3
 10 ** 6
 
-Floats
+# Floats
 
 0.1 + 0.1
 0.2 + 0.2
@@ -30,7 +30,7 @@ Floats
 0.2 + 0.1
 3 * 0.1
 
-Integers and Floats
+# Integers and Floats
 
 4/2
 
@@ -39,21 +39,21 @@ Integers and Floats
 3.0 ** 2
 
 
-Undercores in Numbers
+# Undercores in Numbers
 
 universe_age = 14_000_000_000
 print(universe_age)
 
-Multiple Assignment
+# Multiple Assignment
 
 x, y, z = 0, 0, 0
 
-Constants
+# Constants
 
 MAX_CONNECTIONS = 5000
 print(MAX_CONNECTIONS)
 
-Comments
+# Comments
 
 # Say hello to everyone.
 print("Hello Python people!")
